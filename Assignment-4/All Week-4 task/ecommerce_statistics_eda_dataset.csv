@@ -1,0 +1,153 @@
+Order_ID,Product,Category,Region,Sales,Quantity,Rating,Payment_Method,Order_Status
+O0001,Tablet,Electronics,Central,99898.86,4,4.3,Net Banking,Delivered
+O0002,Headphones,Accessories,East,7408.31,3,3.3,Net Banking,Delivered
+O0003,Smartwatch,Wearables,West,31683.84,4,2.5,Net Banking,Delivered
+O0004,Keyboard,Accessories,North,3626.74,2,3.6,Debit Card,Delivered
+O0005,Tablet,Electronics,East,38015.99,2,4.9,Cash on Delivery,Shipped
+O0006,Smartwatch,Wearables,Central,6047.55,1,4.0,UPI,Delivered
+O0007,Keyboard,Accessories,North,2051.44,1,4.5,Credit Card,Cancelled
+O0008,Smartphone,Electronics,West,110676.92,4,,Net Banking,Delivered
+O0009,Monitor,Electronics,South,13914.51,1,4.2,Credit Card,Shipped
+O0010,Monitor,Electronics,South,85565.65,5,4.4,Credit Card,Returned
+O0011,Keyboard,Accessories,Central,6217.69,4,3.3,Credit Card,Cancelled
+O0012,Smartwatch,Wearables,Central,15954.07,2,4.0,UPI,Cancelled
+O0013,Tablet,Electronics,North,95960.17,5,5.0,Cash on Delivery,Delivered
+O0014,Headphones,Accessories,East,2658.51,1,4.5,Net Banking,Delivered
+O0015,Tablet,Electronics,West,38929.47,2,4.7,Credit Card,Delivered
+O0016,Smartwatch,Wearables,East,37410.86,5,4.1,Debit Card,Delivered
+O0017,Headphones,Accessories,Central,14268.92,5,4.6,Credit Card,Returned
+O0018,Tablet,Electronics,South,66450.11,3,3.6,Cash on Delivery,Cancelled
+O0019,Headphones,Accessories,Central,2360.77,1,3.8,Net Banking,Delivered
+O0020,Mouse,Accessories,East,4078.28,4,4.0,Cash on Delivery,Delivered
+O0021,Smartphone,electronics,West,140803.52,5,2.8,Cash on Delivery,Shipped
+O0022,Keyboard, ELECTRONICS ,South,8047.93,4,3.8,Cash on Delivery,Delivered
+O0023,Tablet,Electronics,North,20496.07,1,4.1,Cash on Delivery,Cancelled
+O0024,Laptop,Electronics,North,140594.13,3,3.8,Net Banking,Delivered
+O0025,Headphones,Accessories,North,4756.42,2,4.9,Cash on Delivery,Delivered
+O0026,Monitor,Electronics,South,13892.62,1,3.1,Debit Card,Delivered
+O0027,Mouse,Accessories,South,1034.39,1,3.2,Credit Card,Shipped
+O0028,Monitor,Electronics,South,71514.1,5,4.1,Net Banking,Shipped
+O0029,Smartphone,Electronics,North,104910.72,4,3.4,Net Banking,Shipped
+O0030,Smartphone,Electronics,North,98543.66,3,4.5,Cash on Delivery,Delivered
+O0031,Monitor,Electronics,West,83063.07,5,3.3,Debit Card,Delivered
+O0032,Headphones,Accessories,,7159.5,3,2.7,UPI,Delivered
+O0033,Smartwatch,Wearables,South,7368.95,1,4.3,Credit Card,Delivered
+O0034,Tablet,Electronics,West,79418.81,4,5.0,Cash on Delivery,Delivered
+O0035,Smartphone,Electronics,Central,26337.92,1,4.7,Debit Card,Delivered
+O0036,Laptop,Electronics,West,174917.71,3,4.6,UPI,Shipped
+O0037,Headphones,Accessories,West,2246.22,1,4.7,Debit Card,Returned
+O0038,Laptop,Electronics,South,188446.36,3,3.2,Credit Card,Returned
+O0039,Headphones,Accessories,North,11466.01,5,4.3,Net Banking,Shipped
+O0040,Smartwatch,Wearables,West,21992.96,3,3.9,Debit Card,Delivered
+O0041,Monitor,Electronics,East,74701.7,5,4.8,Credit Card,Cancelled
+O0042,Monitor,Electronics,Central,15346.07,1,3.7,Cash on Delivery,Cancelled
+O0043,Smartwatch,Wearables,North,21453.63,3,4.4,Cash on Delivery,Shipped
+O0044,Monitor,Electronics,West,70040.11,5,4.7,UPI,Cancelled
+O0045,Smartwatch,Wearables,East,34245.93,5,4.9,Cash on Delivery,Delivered
+O0046,Keyboard,Accessories,East,8689.76,5,4.6,Credit Card,Delivered
+O0047,Smartphone,Electronics,South,67740.3,2,2.7,Credit Card,Delivered
+O0048,Smartphone,Electronics,North,56805.91,2,4.6,Debit Card,Returned
+O0049,Smartwatch,Wearables,South,32863.36,5,3.5,UPI,Cancelled
+O0050,Keyboard,Accessories,West,3065.6,2,4.1,UPI,Returned
+O0051,Smartwatch,Wearables,South,31247.58,4,2.6,Credit Card,Returned
+O0052,Headphones,Accessories,South,2241.28,1,5.0,Credit Card,Returned
+O0053,Laptop,Electronics,East,189563.09,4,3.3,Cash on Delivery,Cancelled
+O0054,Laptop,Electronics,West,256152.29,5,4.9,Net Banking,Shipped
+O0055,Monitor,Electronics,Central,46855.3,3,4.3,Credit Card,Shipped
+O0056,Smartphone,Electronics,West,97970.03,3,,Credit Card,Delivered
+O0057,Mouse,Accessories,North,2049.83,2,4.6,Cash on Delivery,Cancelled
+O0058,Laptop,Electronics,North,123702.05,2,3.6,Net Banking,Cancelled
+O0059,Laptop,Electronics,Central,294626.5,5,3.9,Debit Card,Shipped
+O0060,Smartphone,Electronics,West,96961.84,3,2.5,Net Banking,Delivered
+O0061,Monitor,Electronics,South,54155.94,4,2.5,Net Banking,Shipped
+O0062,Laptop,Electronics,Central,266626.64,5,4.0,Cash on Delivery,Delivered
+O0063,Keyboard,Accessories,North,3735.93,2,3.8,Net Banking,Cancelled
+O0064,Keyboard,Accessories,East,3088.63,2,4.0,Cash on Delivery,Shipped
+O0065,Smartphone,Electronics,East,93868.78,3,3.6,Debit Card,Cancelled
+O0066,Keyboard,Accessories,East,5919.09,3,4.1,Cash on Delivery,Cancelled
+O0067,Mouse,Accessories,East,3168.84,4,2.5,Credit Card,Delivered
+O0068,Tablet,Electronics,South,23027.77,1,3.5,Credit Card,Returned
+O0069,Smartphone,Electronics,Central,84110.08,3,2.8,Credit Card,Cancelled
+O0070,Headphones,Accessories,Central,10771.95,5,3.5,UPI,Shipped
+O0071,Smartphone,Electronics,North,161277.66,5,4.5,Debit Card,Shipped
+O0072,Smartphone,Electronics,Central,32487.72,1,3.4,Cash on Delivery,Delivered
+O0073,Tablet,Electronics,North,117916.99,5,3.1,UPI,Returned
+O0074,Keyboard,Accessories,North,1702.83,1,4.7,Cash on Delivery,Shipped
+O0075,Mouse,Accessories,West,993.73,1,3.4,Cash on Delivery,Delivered
+O0076,Smartphone,Electronics,West,131626.69,5,4.0,Debit Card,Cancelled
+O0077,Keyboard,Accessories,Central,9787.26,5,4.5,Net Banking,Delivered
+O0078,Smartphone,Electronics,East,58947.55,2,4.7,Debit Card,Delivered
+O0079,Tablet,Electronics,North,92963.99,4,4.6,Net Banking,Returned
+O0080,Tablet,Electronics,East,100845.02,5,3.5,Credit Card,Delivered
+O0081,Mouse,Accessories,Central,3939.53,5,5.0,UPI,Returned
+O0082,Keyboard,Accessories,West,2041.51,1,5.0,Cash on Delivery,Returned
+O0083,Keyboard,Accessories,East,5848.98,3,3.9,Credit Card,Delivered
+O0084,Headphones,Accessories,South,6945.78,3,3.5,Cash on Delivery,Shipped
+O0085,Smartwatch,Wearables,East,38389.3,5,4.4,Net Banking,Shipped
+O0086,Monitor,Electronics,North,14436.92,1,3.2,Net Banking,Returned
+O0087,Smartphone,Electronics,Central,137204.42,4,3.9,Net Banking,Delivered
+O0088,Keyboard,Accessories,North,8333.07,5,4.2,Credit Card,Delivered
+O0089,Laptop,Electronics,North,57104.71,1,4.0,Debit Card,Shipped
+O0090,Smartphone,Electronics,South,105843.22,4,3.3,Cash on Delivery,Shipped
+O0091,Smartphone,Electronics,Central,55129.11,2,3.2,UPI,Shipped
+O0092,Smartwatch,Wearables,North,22248.42,3,3.8,Net Banking,Shipped
+O0093,Mouse,Accessories,East,3352.63,4,2.8,Net Banking,Returned
+O0094,Smartphone,Electronics,South,96094.43,3,4.0,Credit Card,Returned
+O0095,Smartphone,Electronics,North,77720.9,3,2.6,UPI,Delivered
+O0096,Smartwatch,Wearables,North,6741.15,1,4.4,Debit Card,Delivered
+O0097,Laptop,Electronics,North,238989.73,5,2.6,Net Banking,Returned
+O0098,Keyboard,Accessories,East,1818.55,1,4.4,Net Banking,Cancelled
+O0099,Mouse,Accessories,Central,4847.06,5,3.4,UPI,Returned
+O0100,Laptop,Electronics,North,250000.0,3,3.0,UPI,Delivered
+O0101,Keyboard,Accessories,East,3598.02,2,3.7,Debit Card,Delivered
+O0102,Keyboard,Accessories,East,1828.03,1,3.9,UPI,Delivered
+O0103,Smartwatch,Wearables,East,36263.25,5,4.3,Cash on Delivery,Delivered
+O0104,Monitor,Electronics,East,30809.26,2,3.5,Debit Card,Delivered
+O0105,Keyboard,Accessories,West,1807.55,1,4.5,Credit Card,Delivered
+O0106,Laptop,Electronics,North,299458.92,5,3.6,Credit Card,Delivered
+O0107,Keyboard,Accessories,Central,7111.73,4,5.0,Credit Card,Cancelled
+O0108,Monitor,Electronics,North,46075.27,3,3.4,Debit Card,Returned
+O0109,Smartwatch,Wearables,East,25327.79,4,3.4,Debit Card,Delivered
+O0110,Mouse,Accessories,Central,1855.05,2,3.1,Net Banking,Delivered
+O0111,Keyboard,Accessories,North,3251.17,2,2.7,Net Banking,Delivered
+O0112,Keyboard,Accessories,South,4025.75,2,2.8,Net Banking,Delivered
+O0113,Laptop,Electronics,East,119880.54,2,4.1,Net Banking,Delivered
+O0114,Smartphone,Electronics,Central,131023.25,4,4.4,Cash on Delivery,Returned
+O0115,Monitor,Electronics,South,32339.6,2,3.8,Net Banking,Delivered
+O0116,Monitor,Electronics,East,41657.9,3,4.3,Cash on Delivery,Cancelled
+O0117,Smartphone,Electronics,North,57374.64,2,3.5,Net Banking,Shipped
+O0118,Smartphone,Electronics,West,33066.39,1,2.7,UPI,Delivered
+O0119,Mouse,Accessories,North,3571.89,4,3.4,Net Banking,Delivered
+O0120,Tablet,Electronics,North,88979.61,4,4.0,Cash on Delivery,Delivered
+O0121,Smartphone,Electronics,South,28537.02,1,4.7,Debit Card,Delivered
+O0122,Mouse,Accessories,Central,5085.48,5,2.5,Cash on Delivery,Returned
+O0123,Headphones,Accessories,Central,2185.18,1,3.8,Cash on Delivery,Returned
+O0124,Smartphone,Electronics,North,136900.94,4,4.7,Debit Card,Returned
+O0125,Laptop,Electronics,East,111873.18,2,3.9,Net Banking,Shipped
+O0126,Mouse,Accessories,North,1704.79,2,3.6,Cash on Delivery,Delivered
+O0127,Keyboard,Accessories,Central,1859.73,1,3.2,Debit Card,Shipped
+O0128,Mouse,Accessories,South,2776.05,3,3.4,Net Banking,Delivered
+O0129,Keyboard,Accessories,North,3408.14,2,4.5,Net Banking,Delivered
+O0130,Laptop,Electronics,East,56578.04,1,3.7,UPI,Cancelled
+O0131,Monitor,Electronics,East,68370.48,4,2.8,UPI,Delivered
+O0132,Keyboard,Accessories,West,4697.72,3,4.4,Net Banking,Delivered
+O0133,Laptop,Electronics,Central,250384.25,5,2.9,Net Banking,Cancelled
+O0134,Headphones,Accessories,North,7800.96,3,4.8,Net Banking,Delivered
+O0135,Laptop,Electronics,East,120447.78,2,3.6,Net Banking,Returned
+O0136,Laptop,Electronics,South,50581.51,1,4.7,Net Banking,Delivered
+O0137,Tablet,Electronics,East,64644.26,3,3.3,Credit Card,Shipped
+O0138,Tablet,Electronics,East,109848.98,5,4.4,Cash on Delivery,Cancelled
+O0139,Monitor,Electronics,North,14152.75,1,3.1,Cash on Delivery,Returned
+O0140,Smartphone,Electronics,Central,59891.67,2,4.4,Cash on Delivery,Cancelled
+O0141,Smartwatch,Wearables,Central,27137.21,4,4.5,Net Banking,Shipped
+O0142,Keyboard,Accessories,East,9594.1,5,4.1,Cash on Delivery,Shipped
+O0143,Smartphone,Electronics,South,92673.79,3,4.6,Credit Card,Returned
+O0144,Headphones,Accessories,South,11235.56,4,2.8,UPI,Delivered
+O0145,Tablet,Electronics,West,90454.22,4,2.8,Net Banking,Cancelled
+O0146,Smartwatch,Wearables,North,15139.24,2,3.4,Debit Card,Cancelled
+O0147,Monitor,Electronics,Central,16915.06,1,3.6,Net Banking,Delivered
+O0148,Monitor,Electronics,East,53243.93,4,4.8,Net Banking,Delivered
+O0149,Mouse,Accessories,South,820.51,1,4.5,UPI,Delivered
+O0150,Tablet,Electronics,South,88987.24,4,4.8,Credit Card,Delivered
+O0011,Keyboard,Accessories,Central,6217.69,4,3.3,Credit Card,Cancelled
+O0046,Keyboard,Accessories,East,8689.76,5,4.6,Credit Card,Delivered

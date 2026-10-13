@@ -1,0 +1,16 @@
+Patterns and Trends
+Sales distribution: Most observations are concentrated at lower sales values, while a smaller number have substantially higher sales.
+Rating distribution across sales: Ratings vary across the sales range, with no clear linear trend.
+Sales and quantity relationship: The positive correlation suggests that higher quantities tend to accompany higher sales, although the relationship is not perfect.
+
+Insight 1: Relationship Between Sales and Quantity
+
+The correlation coefficient between Sales and Quantity is 0.41, indicating a moderate positive relationship. This suggests that higher quantities tend to be associated with higher sales. Therefore, quantity sold may be a useful variable to examine when analyzing sales performance.
+
+Insight 2: Relationship Between Sales and Rating
+
+The correlation coefficient between Sales and Rating is -0.08, indicating a very weak negative relationship. The scatter plot shows that products with high sales do not necessarily have high ratings. This suggests that sales performance and customer ratings may vary independently in this dataset.
+
+Insight 3: Relationship Between Quantity and Rating
+
+The correlation coefficient between Quantity and Rating is -0.02, indicating almost no linear relationship. This suggests that the quantity sold does not have a meaningful linear association with product ratings in this dataset. Therefore, other factors may need to be investigated to understand customer ratings.
